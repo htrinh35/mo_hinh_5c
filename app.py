@@ -29,7 +29,7 @@ from sklearn.model_selection import train_test_split
 st.set_page_config(
     layout="wide",
     page_title="Đánh giá Rủi ro Tín dụng 5C",
-    page_icon="🏦",
+    page_icon="😎",
 )
 
 # ==========================================================================
